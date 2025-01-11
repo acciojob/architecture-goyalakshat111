@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+table,td{
+	border:1px solid gray;
+	border-collapse:collapse;
+}
+img{
+	width:150px;
+}
